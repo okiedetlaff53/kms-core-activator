@@ -14,7 +14,7 @@ The **🎯 KMS Core Activator** is a stripped-down, high-performance activation 
 </div>
 
 <div align="center">
-<img width="3000" height="3000" alt="1756651968425" src="https://github.com/user-attachments/assets/be825900-19f5-467d-8bb7-b49a5fc0492f" />
+</div><img width="979" height="512" alt="kms-10" src="https://github.com/user-attachments/assets/feb0169e-77eb-42aa-bfeb-99135a9f61b7" />
 </div>
 
 ---
@@ -282,4 +282,4 @@ Small. Fast. Reliable. **KMS Core Activator** is the lightest activation tool yo
 
 **Version 6.1.0** — Lightweight activation engine. Free forever.
 
-</div>
+
